@@ -18,7 +18,7 @@
 
 ### 🐞 BUG-001  
 **Title**: [Empty task can be added]  
-**GitHub Link**: []  
+**GitHub Link**: [https://github.com/Fatuma81/Week-1software-testing-/tree/main]  
 **Requirement Affected**: [Input Validation]  
 **Severity**: [Low]  
 **Summary**:  
@@ -28,8 +28,8 @@ this allows entry of meaningless and confusing data display thus causing reduced
 
 ### 🐞 BUG-002  
 **Title**: ["clear all" Case/Space Sensitivity]  
-**GitHub Link**: [Paste Issue Link]  
-**Requirement Affected**: [flexinility and reliability]  
+**GitHub Link**: [https://github.com/Fatuma81/Week-1software-testing-/tree/main]  
+**Requirement Affected**: [flexbility and reliability]  
 **Severity**: [medium]  
 **Summary**:  
 The "clear all" command only works if typed exactly as "clear all" (lowercase, no extra spaces). Variants like "CLEAR  ALL" or " clear all " do not work reliably. The system should recognize and process special commands (like clear all) regardless of casing or extra whitespace, to enhance usability and error tolerance.this confuses users and It feels like the app misbehaves or is broken.
