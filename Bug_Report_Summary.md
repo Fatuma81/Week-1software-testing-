@@ -1,18 +1,16 @@
 # 🐞 Bug Report Summary
 
 ## 🧾 Student Details  
-**Name**: [Your Full Name]  
-**Cohort**: [e.g., August 2024]  
-**Date**: [Submission Date]
-
+**Name**: Fatuma Abdi Ibrahim
+**Cohort**:  feb 2025
+**Date**:  27th may 2025
 ---
 
 ## ✅ Expected Behaviors  
-List 3 things you expect the To-Do app to do correctly.
 
-1. [e.g., Tasks should not be added if input is empty]  
-2. [e.g., Tasks should remain after page reload]  
-3. [e.g., Clicking “Complete” should strike through the task]
+1. the app should sucessfully add tasks
+2.the app should not add task if empty
+3. task should be added by clicking complete
 
 ---
 
