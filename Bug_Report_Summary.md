@@ -18,7 +18,7 @@
 
 ### 🐞 BUG-001  
 **Title**: [Empty task can be added]  
-**GitHub Link**: [https://github.com/Fatuma81/Week-1software-testing-/tree/main]  
+**GitHub Link**: [https://github.com/Fatuma81/Week-1software-testing-/issues/1#issue-3094196499]  
 **Requirement Affected**: [Input Validation]  
 **Severity**: [Low]  
 **Summary**:  
