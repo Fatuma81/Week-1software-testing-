@@ -17,30 +17,39 @@
 ## 🐛 Reported Bugs  
 
 ### 🐞 BUG-001  
-**Title**: [Copy-paste GitHub Issue Title]  
-**GitHub Link**: [Paste Issue Link]  
-**Requirement Affected**: [e.g., Input Validation]  
-**Severity**: [High / Medium / Low]  
+**Title**: [Empty task can be added]  
+**GitHub Link**: []  
+**Requirement Affected**: [Input Validation]  
+**Severity**: [Low]  
 **Summary**:  
-[1–2 sentences describing the bug and its impact.]
-
+The app allows users to add empty or whitespace-only tasks, which results in blank list items being displayed.
+this allows entry of meaningless and confusing data display thus causing reduced data quality and acessibility issues 
 ---
 
 ### 🐞 BUG-002  
-**Title**: [Copy-paste GitHub Issue Title]  
+**Title**: ["clear all" Case/Space Sensitivity]  
 **GitHub Link**: [Paste Issue Link]  
-**Requirement Affected**: [e.g., Data Persistence]  
-**Severity**: [High / Medium / Low]  
+**Requirement Affected**: [flexinility and reliability]  
+**Severity**: [medium]  
 **Summary**:  
-[1–2 sentences describing the bug and its impact.]
-
+The "clear all" command only works if typed exactly as "clear all" (lowercase, no extra spaces). Variants like "CLEAR  ALL" or " clear all " do not work reliably. The system should recognize and process special commands (like clear all) regardless of casing or extra whitespace, to enhance usability and error tolerance.this confuses users and It feels like the app misbehaves or is broken.
 ---
 
 ## 💭 Reflection  
 
 Answer briefly (1–2 paragraphs):
+I used observation and manual testing interacting with the application through the browser to observe how it behaved in response to different inputs.Entered valid and invalid tasks (e.g., empty text, duplicate tasks).Used special commands like "clear all" in different cases and spacing.
 
-- What was your testing approach?  
-- What did you find easy or difficult during the task?  
-- How confident are you now in identifying and reporting bugs?
+Easy:
+Identifying obvious visual bugs (e.g., empty tasks being added).
+Testing basic functionality like adding and marking tasks complete.
+Understanding how the existing JavaScript code was structured.
 
+Difficult:
+Noticing that the "clear all" command was evaluated after being added.
+Verifying if the app meets user experience and accessibility expectations without formal requirements.
+
+I feel a little confident now:
+I can spot both functional and usability/accessibility bugs.
+I can clearly explain what went wrong, which requirement was affected, and how it should be fixed.
+I'm also comfortable writing bug summaries
