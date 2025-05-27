@@ -28,7 +28,7 @@ this allows entry of meaningless and confusing data display thus causing reduced
 
 ### 🐞 BUG-002  
 **Title**: ["clear all" Case/Space Sensitivity]  
-**GitHub Link**: [https://github.com/Fatuma81/Week-1software-testing-/tree/main]  
+**GitHub Link**: [https://github.com/Fatuma81/Week-1software-testing-/issues/2#issue-3094230299]  
 **Requirement Affected**: [flexbility and reliability]  
 **Severity**: [medium]  
 **Summary**:  
